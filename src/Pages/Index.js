@@ -1,5 +1,8 @@
-import React from "react";
+import React from 'react';
 
 export const Index = () => {
-  return <div>Index </div>;
-};
+    return(
+        
+        <div>Index  </div>
+    )
+}
